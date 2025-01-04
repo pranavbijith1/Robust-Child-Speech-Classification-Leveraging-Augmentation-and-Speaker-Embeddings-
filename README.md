@@ -16,3 +16,4 @@ Future efforts will explore enhanced augmentation and model tuning for further i
 
 We want to thank Graduate student, Natarajan Balaji Shankar (UCLA), for being our research mentor and guiding us through the research process.  The entirety of the paper can found in this repo along with the colabs used.  
 
+Our future plans include submitting this paper to arXiv, IEEE, and more..  
